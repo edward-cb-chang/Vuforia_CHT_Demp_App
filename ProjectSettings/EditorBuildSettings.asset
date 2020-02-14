@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Place At Locations.unity
+    guid: 4d2175edcfda79b4cbe8c129b88a69a2
   m_configObjects: {}

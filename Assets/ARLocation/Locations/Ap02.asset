@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Ap02
   m_EditorClassIdentifier: 
   Location:
-    Latitude: -23.540624
-    Longitude: -46.647136
+    Latitude: 24.896283
+    Longitude: 121.04713
     Altitude: 0
     AltitudeMode: 2
     Label: 
